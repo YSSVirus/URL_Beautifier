@@ -4,9 +4,6 @@ This Python script takes a URL as input and outputs a numbered list of parameter
 
 ## Installation
 To use this script, you can clone the repository using the following command:
-
-bash
-Copy code
 git clone https://github.com/your-username/your-repo.git
 ## Usage
 Once you have cloned the repository, navigate to the project directory and run the script with the following command:
