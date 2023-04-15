@@ -4,7 +4,7 @@ This Python script takes a URL as input and outputs a numbered list of parameter
 
 ## Installation
 To use this script, you can clone the repository using the following command:
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/yssvirus/your-repo.git
 ## Usage
 Once you have cloned the repository, navigate to the project directory and run the script with the following command:
 python3 url_parameter_breakdown.py --url <URL>
